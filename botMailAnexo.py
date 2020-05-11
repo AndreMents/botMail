@@ -8,8 +8,8 @@ import os
 import time
 
 
-fromaddr = "cpd@metalurgicaimac.com.br" 
-toaddr = "cpd@metalurgicaimac.com.br" 
+fromaddr = "seuemail@gmail.com.br" 
+toaddr = "destinatarioemail@gmail.com.br" 
 
 msg = MIMEMultipart() 
 
