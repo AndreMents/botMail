@@ -1,0 +1,1 @@
+xcopy /S /E /C /Y /Q "enviar\*.*" "enviado\%date:/=%\"
